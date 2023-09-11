@@ -1,0 +1,6 @@
+.color-box {
+    display: flex;
+    justify-content: center;
+    width: 50px;
+    height: 20px;
+}
